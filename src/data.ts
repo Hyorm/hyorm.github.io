@@ -118,19 +118,16 @@ export const DEFAULT_PORTFOLIO: PortfolioData = {
     },
     {
       id: "exp-handong",
-      role: "B.S. in Computer Science & Academic Researcher",
-      company: "Handong Global University",
+      role: "B.S. of Computer Science and Engineering",
+      company: "Handong University",
       location: "Pohang, South Korea",
-      period: "Mar 2017 – Feb 2022",
-      description: "Graduated with Bachelor of Science in Computer Science and Engineering. Co-authored KCI-indexed academic research in automated software verification.",
+      period: "2022",
+      description: "Co-authored KCI-indexed academic research in automated software verification.",
       bulletPoints: [
         "Co-authored Research Paper: 'CRESTIVE-DX: Distributed Concolic Testing for Embedded Software' (KCI Indexed, Excellence Award at KCSE 2020)",
-        "Researched automated concolic testing pipelines to maximize code path coverage and improve embedded software verification efficiency",
-        "Focused on Operating Systems, Systems Programming, Computer Architecture, Data Structures & Algorithms"
+        "Researched automated test-case generation pipelines using concolic testing techniques to optimize code path coverage and improve embedded software verification efficiency"
       ],
-      skillsUsed: ["C/C++", "Concolic Testing", "Software Verification", "Linux", "Algorithms"],
-      linkUrl: "https://github.com/hyorm",
-      linkText: "Undergraduate Resume & Projects Archive (github.com/hyorm)"
+      skillsUsed: ["C/C++", "Concolic Testing", "Software Verification", "Linux", "Algorithms"]
     }
   ]
 };
