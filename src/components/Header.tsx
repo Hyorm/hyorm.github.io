@@ -45,10 +45,13 @@ export default function Header({ personalInfo }: HeaderProps) {
                 href={personalInfo.github}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-1.5 text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors"
-                title="GitHub"
+                className="inline-flex items-center gap-1.5 px-2 py-1 text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors group"
+                title="GitHub (before 2022)"
               >
                 <Github className="h-4 w-4" />
+                <span className="text-[10px] font-mono text-zinc-400 dark:text-zinc-500 group-hover:text-zinc-700 dark:group-hover:text-zinc-300 transition-colors">
+                  before 2022
+                </span>
               </a>
             )}
             {personalInfo.linkedin && (
