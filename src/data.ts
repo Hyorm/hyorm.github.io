@@ -118,7 +118,7 @@ export const DEFAULT_PORTFOLIO: PortfolioData = {
     },
     {
       id: "exp-handong",
-      role: "B.S. of Computer Science and Engineering",
+      role: "B.S. of Computer Science and Engineering & Academic Researcher",
       company: "Handong University",
       location: "Pohang, South Korea",
       period: "2022",
