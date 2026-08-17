@@ -106,7 +106,7 @@ export const DEFAULT_PORTFOLIO: PortfolioData = {
       role: "Full-Lifecycle Software Engineer",
       company: "NEXON KOREA",
       location: "Seongnam, South Korea",
-      period: "Nov 2021 – Present (4.5 Years)",
+      period: "Nov 2021 – Present",
       description: "Spearheading native desktop applications, low-level C++ SDKs, macOS platform distribution, and deployment tooling.",
       bulletPoints: [
         "Architected next-gen Global Unified Launcher bridging Electron web UI with C++ Native Addons (N-API) and non-blocking telemetry engine (In-house Analytics & Logging Tools, Sentry)",
