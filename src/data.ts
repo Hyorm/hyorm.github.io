@@ -119,9 +119,9 @@ export const DEFAULT_PORTFOLIO: PortfolioData = {
     {
       id: "exp-handong",
       role: "B.S. of Computer Science and Engineering & Academic Researcher",
-      company: "Handong University",
-      location: "Pohang, South Korea",
-      period: "2022",
+      company: "University",
+      location: "South Korea",
+      period: "Mar 2016 - Feb 2022",
       description: "Co-authored KCI-indexed academic research in automated software verification.",
       bulletPoints: [
         "Co-authored Research Paper: 'CRESTIVE-DX: Distributed Concolic Testing for Embedded Software' (KCI Indexed, Excellence Award at KCSE 2020)",
